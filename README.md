@@ -7,7 +7,7 @@
 ## Backend
 - Django
 - Rest API
-## Backend useage
+## Backend use
 ```
 cd BlogBackend
 python3 manage.py runserver
@@ -17,7 +17,7 @@ python3 manage.py runserver
 ## Frontend
 - Vue.js
 - vue-resource
-## Backend useage
+## Frontend use
 ```
 sudo npm install
 npm run dev
